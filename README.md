@@ -9,5 +9,4 @@ Step 3: Update image in PhotoShop with all the logos of Tech Stack we use
 
 Step 4: Make first post
 
-Step 5: Create a place to start documenting all this stuff (here wea re in Git)
-
+Step 5: Create a place to start documenting all this stuff (here we are in Git)
